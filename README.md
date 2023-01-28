@@ -2,6 +2,13 @@
 
 This is a simple web app that uses the [cohereAI](https://cohere.ai) API to answer questions from Bhagavad Gita.
 
+
+# Display markdown screenshot for AppScreenshot.png
+
+![App Sample Screenshot](/APPScreenshot.png "App Screenshot")
+
+
+
 ### How to run this app yourself
 
 1. Register for a free account at [cohereAI](https://cohere.ai)
