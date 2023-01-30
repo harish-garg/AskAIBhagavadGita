@@ -57,3 +57,6 @@ with form:
           ai_output = generate_output(user_input)
           st.write(ai_output)
           my_bar.progress((i+1)/num_input)
+
+st.write( '')
+st.markdown("Created by[Harish Garg](https://harishgarg.com) Get [Source Code](https://github.com/harish-garg/AskAIBhagavadGita)")
